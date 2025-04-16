@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "name": "aichat",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisodiz/ai-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisodiz/ai-chat/issues"
+  },
+  "homepage": "https://github.com/luisodiz/ai-chat#readme",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "typescript": "^5.3.3"
+  }
+}
